@@ -1,5 +1,5 @@
-# AI Code Explainer and Debugger
-AI assisted code explainer and debugger that uses Gemma 2 9B model. This is one of the projects I have worked on in Flaunch Gen AI Internship Level 1.
+# Chat Bot: AI Code Explainer and Debugger
+AI assisted code explainer and debugger that uses Gemma 2 9B model. This is one of the projects I have worked on in IBM Gen AI Internship.
 
 1)download the zip file 
 
